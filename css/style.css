@@ -37,6 +37,8 @@ p{
 }
 
 a{
+    display: block;
+    margin: 18px;
     color: #29abf4;
     text-decoration: none;
     transition: 600ms;
