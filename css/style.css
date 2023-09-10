@@ -25,6 +25,10 @@ img{
     margin-right: 16px;
 }
 
+h1{
+    font-size: 2rem;
+}
+
 h4{
     margin: 0;
     font-weight: normal;
